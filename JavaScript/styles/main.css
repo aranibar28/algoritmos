@@ -1,0 +1,26 @@
+body {
+  background-color: aquamarine;
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 20px;
+  padding: 10px;
+  color: white;
+  border: 0;
+  background-color: blueviolet;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+button:active {
+  box-shadow: 0 0 3px black;
+}
+
+p{
+  text-align: left;
+}
